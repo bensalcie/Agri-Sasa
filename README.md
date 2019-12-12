@@ -35,28 +35,29 @@ To install in on Android things :
  
   [![Employee](https://img.youtube.com/vi/VID/0.jpg)]( https://youtu.be/uOxihngWp88)
  
- The following video will show you the Manager/Employer/Admin side of the app.  
+ The following video will show you the farmer side of the app.  
  This includes:
- 1. Manager job assignment dashboard.
- 2. Manger workers control.
- 3. Tracking of workers in various fields.
- 4. Verifying if tasks have been done correctly.
- 5. Declaring if task has been done correctly.
+ 1. Farmer Account creation.
+ 2. Farmer location and contact details.
+ 3. Farmer products/services upload .
+ 4. Farmer products insighsts from customers based on machine learning models.
+ 5. Access to potential customers/ Buyers.
  
  
  [![Manager](https://img.youtube.com/vi/VID/0.jpg)]( https://youtu.be/WYlQpCj5--Y)
 
  
  
- ![Tiny Track](/Screenshots/Screenshot_20191130-001904.png)
+ ![Agrisasa](/Screenshots/Screenshot_20191130-001904.png)
 
 
 # Description
-Work ethics has been a very big and demanding problem to most organizations, industries, institutions and even private sectors of an economy.  A whole 19% of big organizations fail because of employee ethics, they are unable to tell what a empployee has been doing and at what time and where. Many people have however wanted to overcome this fact through so many ways such as worker attendance sheets, manual chesks and so on, this has proven futile for an organization , company or industry that has a bunch of sub sections.
+Farming has been the major feeder of most developing countries in Africa, African countries majorly rely on farm products for an economic sustainability. Kenya being my area of study, i found out that a whole 65% of people who live in rural areas do not seek for skilled office employment, but depend entirely on harvested crops in order for them to make a living. Howeve, they are normally faced with the challenge of getting a very efficient and elaborate way to sell their farm produce and maximize on their value. Many end up getting little pay for their hardwork due to the ever extending middle men in the value chain. They are also faced with the challenge of being able to predict the ever changing flavour of customers on their products. This is the most fundermental reason why i created Agrisasa application.
 
-"Successful entreneural economy is a sort of behavior that includes initiative taking, organizing and re-organizing  of social and economic mecahnisms"-Sapero,1975 .  True work is work that can be accounted for and subjected to evaluation.
 
 Whats my goal here? 
+
+"Successful entreneural economy is a sort of behavior that includes initiative taking, organizing and re-organizing  of social and economic mecahnisms"-Sapero,1975 .  True work is work that can be accounted for and subjected to evaluation.
 
 My goal here is to create a condusive environment full of transparency, full of trust, full of confidence and environment where a company, and individual, organization or a private institudion is able to actively monitor the progress of every employee at realtime, analysing information in a centralized way that gives more insights on better ways of improving the organization.
 
