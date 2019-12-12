@@ -1,10 +1,6 @@
-# Agri-Sasa
-This is an app that connects farmers to potential buyers and markets in am more elaborate and efficient manner.
 
-
-
-# Tiny-Track
-Tiny track is an app that  helps employers manage their workers who work remotely as well as individuals who want to track specific people based on a given task. This consists tracking their exact assigned jobs basing on the allocated areas, this  app gives precise time, bearing and the working habbits of the person or object being monitored, the app creates an informative model to help employers come up with better worker environment and get to learn of worker habbits that contribute to work ethics like honesty and company trust
+# Agri Sasa
+Agrisasa is an app that  helps farmers  get reach to their potential buyers and markets in an efficient and elaborate way. This is achieved by elimination of middle men in the farmers value chain by deploying machine learning models of the market current trends and suggesting the best parterns of market demands with the changing dynamics of the economy.
 
 
 
@@ -13,26 +9,27 @@ Tiny track is an app that  helps employers manage their workers who work remotel
 # Installation Guidelines.
 This app works on both Android Phones and Android Things kits.
 To install this app on your phone :
-Locate tiny_tract.apk in this repository and download it on your android device, then locate it on your phone and install it.
+Locate Agri-Sasa/IEEEMADC2019/Agrisasa.apk in this repository and download it on your android device, then locate it on your phone and install it.
 
 
 To install in on Android things :
  Clone or download the project , then import it into your android studio. 
  Connect your android things kit and make sure it is updated correctly, the run the app via android studio by tapping 'RUN'
- Specific managers are assigned to the app, for testing , therefore to test for management of the app use test phone number :
- +254704808070
- # Promotional Video
- This app works under as a master and slave way, so therefore two personas are needed to act as the employer and employee for this case, one to manage the other.
  
- The video below will show you how a worker/ employee or any other person who is to be managed ,will access the app.
+ One can create a new account for testing purposes by clicking 'Create Account'
+ 
+ # Promotional Video
+ This app gives a direct link of farmers to customers, such that a customer is able to talk directly to a farmer and have the burgaining power with the farmer. Customer needs and changes are then shared with farmers to ensure a better service of the futer of the product or service.
+ 
+ The video below will show you how a farmer/ customer or any other person who wants to sell or buy a farm item ,will access the app.
  This includes:
-  1. Worker Account creation
-  2. Worker company verification
-  3. Worker Job acceptance 
-  4. Worker list of tasks.
-  5. Task progress  and worker behaviour monitoring.
+  1. Farmer Account creation
+  2. Farmer Details updates
+  3. Farmer Product upload
+  4. Customer account creation
+  5. Customer acccess to products
   6. Analysing this info using machine learning models.
-  7. Analytics of better worker performance and reporting incase of work mishandling.
+  7. Analytics of better farmer performance and and customer satisfaction insights.
   
  
  
