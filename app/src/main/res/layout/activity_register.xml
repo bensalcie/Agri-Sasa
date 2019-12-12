@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/bc"
+    android:layout_height="match_parent"
+    tools:context=".RegisterActivity">
+    <ImageView
+        android:layout_width="180dp"
+        android:src="@drawable/logo"
+        android:scaleType="centerCrop"
+        android:layout_height="180dp" />
+
+
+    <EditText
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:hint="Email here..."
+        android:layout_margin="10dp"
+        android:id="@+id/etAdm"
+        android:inputType="text"
+        android:backgroundTint="@color/White"
+        android:background="@drawable/input_outline"
+        android:padding="9dp"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:layout_width="match_parent"
+        android:hint="Password here..."
+        android:layout_margin="10dp"
+        android:backgroundTint="@color/White"
+        android:inputType="textPassword"
+        android:background="@drawable/input_outline"
+        android:id="@+id/etPassword"
+        android:padding="9dp"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:layout_width="match_parent"
+        android:hint=" Password again..."
+        android:layout_margin="10dp"
+        android:backgroundTint="@color/White"
+        android:inputType="textPassword"
+        android:background="@drawable/input_outline"
+        android:id="@+id/etRetypedPassword"
+        android:padding="9dp"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:layout_marginTop="45dp"
+        android:layout_width="wrap_content"
+        android:text="   SIGN UP   "
+        android:background="@drawable/input_outline"
+        android:padding="9dp"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/White"
+android:id="@+id/btnRegister"
+        android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:text="Sign In ? "
+            android:layout_gravity="left"
+            android:onClick="signin"
+            android:textColor="@color/White"
+            android:textStyle="bold"
+            android:layout_margin="5dp"
+            android:textSize="16sp"
+            android:layout_height="wrap_content" />
+</LinearLayout>

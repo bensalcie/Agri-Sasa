@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/White"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".DetailActivity"
+    tools:showIn="@layout/activity_detail">
+    <LinearLayout
+        android:layout_marginBottom="85dp"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_margin="10dp"
+        android:layout_height="match_parent">
+    <TextView
+        android:gravity="center_horizontal"
+        android:text="TITLE HERE"
+        android:id="@+id/tvDetailTitle"
+        android:textSize="30sp"
+        android:layout_marginTop="12dp"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <ImageView
+        android:layout_width="match_parent"
+        android:scaleType="fitCenter"
+        android:layout_margin="7dp"
+        android:id="@+id/ivDetailImage"
+
+        android:src="@drawable/ic_photo_library_black_24dp"
+        android:layout_height="280dp" />
+        <LinearLayout
+            android:layout_marginLeft="35dp"
+            android:layout_marginRight="35dp"
+android:layout_marginBottom="12dp"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="wrap_content">
+            <TextView
+                android:gravity="center_horizontal"
+                android:text="VIEWS"
+                android:id="@+id/tvDetailViews"
+
+                android:layout_gravity="center"
+                android:drawableStart="@drawable/ic_remove_red_eye_black_24dp"
+                android:layout_weight="1"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+
+            <TextView
+                android:gravity="center_horizontal"
+                android:text="LIKES"
+                android:id="@+id/tvDetailLikes"
+android:clickable="true"
+                android:background="@android:drawable/editbox_background"
+                android:drawableLeft="@drawable/ic_thumb_up_black_24dp"
+                android:layout_weight="1"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+             </LinearLayout>
+        <LinearLayout
+            android:background="@android:drawable/editbox_background"
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="wrap_content">
+            <TextView
+                android:gravity="center_horizontal"
+                android:text="QTY"
+                android:id="@+id/tvDetailQty"
+
+                android:layout_weight="1"
+                android:textSize="15sp"
+                android:layout_marginTop="12dp"
+                android:textStyle="bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:gravity="center_horizontal"
+                android:text="PRICE"
+                android:id="@+id/tvDetailPrice"
+
+                android:layout_weight="1"
+                android:textSize="15sp"
+                android:layout_marginTop="12dp"
+                android:textStyle="bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+        <LinearLayout
+            android:background="@android:drawable/editbox_background"
+            android:layout_margin="5dp"
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+        <TextView
+            android:gravity="center_horizontal"
+            android:text="POSTER"
+            android:id="@+id/tvDetailPoster"
+
+            android:textSize="18sp"
+            android:layout_marginTop="12dp"
+            android:textStyle="bold"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:gravity="center_horizontal"
+            android:text="Poster Phone"
+            android:id="@+id/tvDetailPosterPhone"
+
+            android:textSize="18sp"
+            android:layout_marginTop="12dp"
+            android:textStyle="bold"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:gravity="center_horizontal"
+            android:text="POSTER COUNTY"
+            android:id="@+id/tvDetailPosterCounty"
+
+            android:textSize="18sp"
+            android:layout_marginTop="12dp"
+            android:textStyle="bold"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:gravity="center_horizontal"
+            android:text="POSTER SUBCOUNTY"
+            android:id="@+id/tvDetailPosterSubcounty"
+
+            android:textSize="18sp"
+            android:layout_marginTop="12dp"
+            android:textStyle="bold"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:gravity="center_horizontal"
+            android:text="POSTER Scale Type"
+            android:id="@+id/tvDetailPosterScaletype"
+
+            android:textSize="18sp"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="12dp"
+            android:textStyle="bold"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        </LinearLayout>
+        <LinearLayout
+            android:background="@android:drawable/editbox_background"
+
+            android:layout_marginBottom="80dp"
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="wrap_content">
+            <TextView
+                android:gravity="center_horizontal"
+                android:text="POST TIME"
+                android:id="@+id/tvDetailTime"
+
+                android:layout_weight="1"
+                android:textSize="15sp"
+                android:layout_marginTop="12dp"
+                android:textStyle="bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:gravity="center_horizontal"
+                android:text="CATEGORY"
+                android:id="@+id/tvDetailCategory"
+
+                android:layout_weight="1"
+                android:textSize="15sp"
+                android:layout_marginTop="12dp"
+                android:textStyle="bold"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+</ScrollView>

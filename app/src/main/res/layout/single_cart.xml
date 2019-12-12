@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="12dp"
+    android:background="@null"
+    android:layout_margin="5dp"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_marginRight="5dp"
+            android:layout_marginLeft="5dp"
+            android:id="@+id/cart_product_image_view"
+            android:layout_width="match_parent"
+            android:layout_height="140dp" />
+        <TextView
+            android:text="name"
+            android:textSize="20sp"
+            android:textColor="@color/colorPrimaryDark"
+            android:textStyle="bold"
+            android:id="@+id/cart_name_tv"
+            android:gravity="center_horizontal"
+            android:lines="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="wrap_content">
+            <TextView
+                android:text="Price"
+                android:id="@+id/cart_price_tv"
+                android:layout_weight="1"
+                android:lines="1"
+                android:textColor="@color/colorText"
+                android:layout_marginRight="1dp"
+                android:gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:text="quantity"
+                android:id="@+id/cart_qty_tv"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:textColor="@color/colorText"
+                android:lines="1"
+                android:layout_marginLeft="1dp"
+
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+        </LinearLayout>
+        <TextView
+            android:text="Product Uploader"
+            android:id="@+id/product_cart_uploader"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:lines="1"
+            android:layout_marginLeft="1dp"
+
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:text="County"
+            android:id="@+id/cart_county"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:lines="1"
+            android:layout_marginLeft="1dp"
+
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:text="Sub County"
+            android:id="@+id/cart_sub_county"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:lines="1"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginLeft="1dp"
+
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:text="  CALL SELLER "
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:id="@+id/btnCall"
+            android:layout_marginTop="5dp"
+            android:gravity="center"
+            android:layout_marginBottom="5dp"
+            android:layout_gravity="center_horizontal"
+            android:drawableLeft="@drawable/ic_call_black_24dp"
+            android:textColor="@color/White"
+            android:backgroundTint="@color/colorPrimaryDark"
+            android:background="@android:drawable/editbox_background"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+</android.support.v7.widget.CardView>

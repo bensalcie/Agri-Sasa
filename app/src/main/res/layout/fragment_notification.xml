@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:layout_margin="0dp"
+    tools:context=".NotificationFragment">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+android:layout_margin="15dp"
+        android:background="@drawable/fragment_background"
+
+        android:layout_height="match_parent">
+    <TextView
+        android:gravity="center_horizontal"
+        android:layout_margin="4dp"
+        android:textStyle="normal"
+        android:textSize="16sp"
+        android:layout_gravity="start"
+        android:id="@+id/firstNotification"
+        android:textColor="@color/colorText"
+android:background="@android:drawable/editbox_background"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       />
+    </LinearLayout>
+
+</FrameLayout>

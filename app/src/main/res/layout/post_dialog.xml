@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:background="@color/colorPrimaryDark"
+        android:orientation="vertical"
+        android:layout_width="250dp"
+        android:gravity="center"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_marginTop="7dp"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="4dp"
+            android:background="@drawable/ic_photo_library_black_24dp"
+            android:id="@+id/productImage"
+            android:scaleType="centerCrop"
+            />
+        <EditText
+            android:layout_width="match_parent"
+            android:hint="Product Name..."
+            android:padding="7dp"
+            android:layout_marginBottom="4dp"
+
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+
+            android:gravity="center"
+            android:inputType="textPersonName"
+            android:background="@drawable/input_outline"
+            android:id="@+id/product_title"
+            android:layout_height="wrap_content" />
+
+        <EditText
+            android:layout_marginBottom="4dp"
+
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_width="match_parent"
+            android:hint="Category..."
+            android:padding="7dp"
+            android:gravity="center"
+            android:inputType="textPersonName"
+
+            android:background="@drawable/input_outline"
+            android:id="@+id/product_category"
+            android:layout_height="wrap_content" />
+        <EditText
+            android:layout_width="match_parent"
+            android:hint="Quantity..."
+            android:padding="7dp"
+            android:inputType="number"
+            android:layout_marginBottom="4dp"
+
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:gravity="center"
+            android:background="@drawable/input_outline"
+            android:id="@+id/product_quantity"
+            android:layout_height="wrap_content" />
+        <EditText
+            android:layout_width="match_parent"
+            android:hint="Unit Price..."
+            android:padding="7dp"
+            android:inputType="number"
+            android:layout_marginBottom="4dp"
+
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:gravity="center"
+            android:background="@drawable/input_outline"
+            android:id="@+id/product_price"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:text="   UPLOAD PRODUCT   "
+            android:id="@+id/btnUpload"
+            android:layout_gravity="center"
+            android:backgroundTint="@color/White"
+            android:layout_marginTop="45dp"
+            android:background="@drawable/input_outline"
+            android:padding="9dp"
+android:layout_marginBottom="15dp"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+</ScrollView>
