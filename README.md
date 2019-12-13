@@ -72,7 +72,7 @@ This gives more insights on the farmers side, They are able to do farming geared
 
 
  
-  [![Sample View](/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190610-185152.png)
+  ![Sample](/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190613-214339.png)
   
   
   # Screenshots
