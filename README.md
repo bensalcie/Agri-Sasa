@@ -48,7 +48,7 @@ To install in on Android things :
 
  
  
- ![Agrisasa](/Screenshots/Screenshot_20191130-001904.png)
+ ![Agrisasa](/IEEE MADC 2019 FILES/Sccreenshots/512.png)
 
 
 # Description
@@ -70,7 +70,7 @@ This gives more insights on the farmers side, They are able to do farming geared
 
 
  
-  ![Sample Track](/Screenshots/Screenshot_20191130-002306.png)
+  ![Sample View](/IEEE MADC 2019 FILES/Sccreenshots/512.png)
   
   
   # Screenshots
@@ -82,19 +82,19 @@ This gives more insights on the farmers side, They are able to do farming geared
   
   
  <p float="left">
-  <img src="/Screenshots/Screenshot_20191129-235822.png" width="150" />
-  <img src="/Screenshots/Screenshot_20191130-002227.png" width="150" /> 
-  <img src="/Screenshots/Screenshot_20191130-002306.png" width="150" />
+  <img src="/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190610-185152.png" width="150" />
+  <img src="/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190613-214339.png" width="150" /> 
+  <img src="/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190613-214413.png" width="150" />
 </p>
   
 <p float="left">
-  <img src="/Screenshots/Screenshot_20191130-002413.png" width="150" />
-  <img src="/Screenshots/Screenshot_20191129-233908.png" width="150" /> 
-  <img src="/Screenshots/Screenshot_20191130-030941.png" width="150" />
+  <img src="/Screenshots/Screenshot_20190610-185152.png" width="150" />
+  <img src="/Screenshots/Screenshot_20190610-185152.png" width="150" /> 
+  <img src="/Screenshots/Screenshot_20190610-185152.png" width="150" />
 </p>
   
   # Disclaimer
-  Tiny Truck is a product developed by Benard Ngoda. All the photos and libraries used are open source and are subject to change with requirements specifications.
+  Agrisasa is a product developed by Benard Ngoda. All the photos and libraries used are open source and are subject to change with requirements specifications.
   
   
   # License
@@ -123,8 +123,7 @@ SOFTWARE.
 
 ## Contact information
 For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](https://github.com/bensalcie). 
-If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/bensalcie/Tiny-Track
-/issues) to report them.
+If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/bensalcie/Agri-Sasa/issues) to report them.
 
 
 #### Developer
@@ -132,7 +131,7 @@ If you have found any bugs or want to post a feature request please use the [bug
 * Twitter: [@ibensalcie](https://twitter.com/ibensalcie )
 
 ### Summary
-| [Tiny Track app](https://github.com/bensalcie/Tiny-Track/blob/master/tiny_truck_apk/tiny_track.apk) | Team Name: Tiny Track | Tiny track is an app that  helps employers manage their workers who work remotely as well as individuals who want to track specific people based on a given task | [LICENSE](https://github.com/bensalcie/Tiny-Track/blob/master/LICENSE) | Kenya | [Benard Ngoda](https://github.com/bensalcie)  
+| [Agri Sasa](https://github.com/bensalcie/Agri-Sasa/IEEEMADC2019/Agrisasa.apk) | Team Name: Agri Sasa | Agrisasa is an app that  helps farmers get reach to potential markets or customers using machine learning models in predicting the ever changing market dynamics | [LICENSE](https://github.com/bensalcie/Agri-Sasa/blob/master/LICENSE) | Kenya | [Benard Ngoda](https://github.com/bensalcie)  
 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
