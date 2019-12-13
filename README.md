@@ -73,22 +73,23 @@ This gives more insights on the farmers side, They are able to do farming geared
   
   # Screenshots
   <p float="left">
-  <img src="https://github.com/bensalcie/Agri-Sasa/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190610-185152.png" width="150" />
-  <img src="https://github.com/bensalcie/Agri-Sasa/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190613-214339.png" width="150" /> 
-  <img src="https://github.com/bensalcie/Agri-Sasa/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190613-214413.png" width="150" />
+ 
+  <img src="https://github.com/bensalcie/Agri-Sasa/blob/master/IEEE%20MADC%202019%20FILES/Sccreenshots/Screenshot_20190610-185152.png" width="150" />
+  <img src="https://github.com/bensalcie/Agri-Sasa/blob/master/IEEE%20MADC%202019%20FILES/Sccreenshots/Screenshot_20190613-214339.png" width="150" /> 
+  <img src="https://github.com/bensalcie/Agri-Sasa/blob/master/IEEE%20MADC%202019%20FILES/Sccreenshots/Screenshot_20190613-214413.png" width="150" />
 </p>
   
   
  <p float="left">
-  <img src="https://github.com/bensalcie/Agri-Sasa/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190613-214258.png" width="150" />
-  <img src="https://github.com/bensalcie/Agri-Sasa/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190610-185216.png" width="150" /> 
-  <img src="https://github.com/bensalcie/Agri-Sasa/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190613-214334.png" width="150" />
+  <img src="https://github.com/bensalcie/Agri-Sasa/blob/master/IEEE%20MADC%202019%20FILES/Sccreenshots/Screenshot_20190613-214258.png" width="150" />
+  <img src="https://github.com/bensalcie/Agri-Sasa/blob/master/IEEE%20MADC%202019%20FILES/Sccreenshots/Screenshot_20190610-185216.png" width="150" /> 
+  <img src="https://github.com/bensalcie/Agri-Sasa/blob/master/IEEE%20MADC%202019%20FILES/Sccreenshots/Screenshot_20190613-214334.png" width="150" />
 </p>
   
 <p float="left">
-  <img src="https://github.com/bensalcie/Agri-Sasa/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190613-214320.png" width="150" />
-  <img src="https://github.com/bensalcie/Agri-Sasa/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190613-214258.png" width="150" /> 
-  <img src="https://github.com/bensalcie/Agri-Sasa/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190613-214222.png" width="150" />
+  <img src="https://github.com/bensalcie/Agri-Sasa/blob/master/IEEE%20MADC%202019%20FILES/Sccreenshots/Screenshot_20190613-214320.png" width="150" />
+  <img src="https://github.com/bensalcie/Agri-Sasa/blob/master/IEEE%20MADC%202019%20FILES/Sccreenshots/Screenshot_20190613-214258.png" width="150" /> 
+  <img src="https://github.com/bensalcie/Agri-Sasa/blob/master/IEEE%20MADC%202019%20FILES/Sccreenshots/Screenshot_20190613-214222.png" width="150" />
 </p>
   
   # Disclaimer
