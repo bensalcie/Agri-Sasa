@@ -50,7 +50,7 @@ To install in on Android things :
 
  
  
- ![Agrisasa](/IEEE MADC 2019 FILES/Sccreenshots/512.png)
+ [![Agrisasa](https://github.com/bensalcie/Agri-Sasa/blob/master/IEEE MADC 2019 FILES/Sccreenshots/512.png)
 
 
 # Description
