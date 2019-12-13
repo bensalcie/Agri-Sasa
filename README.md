@@ -50,8 +50,6 @@ To install in on Android things :
 
  
  
- [![Agrisasa](https://github.com/bensalcie/Agri-Sasa/blob/master/IEEE MADC 2019 FILES/Sccreenshots/512.png)
-
 
 # Description
 Farming has been the major feeder of most developing countries in Africa, African countries majorly rely on farm products for an economic sustainability. Kenya being my area of study, i found out that a whole 65% of people who live in rural areas do not seek for skilled office employment, but depend entirely on harvested crops in order for them to make a living. Howeve, they are normally faced with the challenge of getting a very efficient and elaborate way to sell their farm produce and maximize on their value. Many end up getting little pay for their hardwork due to the ever extending middle men in the value chain. They are also faced with the challenge of being able to predict the ever changing flavour of customers on their products. This is the most fundermental reason why i created Agrisasa application.
@@ -71,9 +69,7 @@ The user creates an account and is able to access the various crops or services 
 This gives more insights on the farmers side, They are able to do farming geared towards users preferences based on gender, times and tastes. This gives a further analysis of what the farmer should cncentrate on more in order to maximize the production value chain. Profits are maximized as customers interact directly with farmers and they can negotiate basing on users preferences. This helps farmers to have more confidence in their sales and will make farming in African countries have more value than as it is at the moment where lots os middle men kill the farming value chain.
 
 
- 
-  ![Sample](/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190613-214339.png)
-  
+   
   
   # Screenshots
   <p float="left">
