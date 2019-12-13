@@ -33,7 +33,7 @@ To install in on Android things :
   
  
  
-  [![Employee](https://img.youtube.com/vi/VID/0.jpg)]( https://youtu.be/uOxihngWp88)
+  [![Farmers](https://img.youtube.com/vi/VID/0.jpg)]( https://youtu.be/uOxihngWp88)
  
  The following video will show you the farmer side of the app.  
  This includes:
@@ -44,7 +44,7 @@ To install in on Android things :
  5. Access to potential customers/ Buyers.
  
  
- [![Manager](https://img.youtube.com/vi/VID/0.jpg)]( https://youtu.be/WYlQpCj5--Y)
+ [![Customers](https://img.youtube.com/vi/VID/0.jpg)]( https://img.youtube.com/vi/VID/0.jpg)
 
  
  
