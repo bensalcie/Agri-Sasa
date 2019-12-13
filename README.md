@@ -35,7 +35,7 @@ To install in on Android things :
   
  
  
-  [![Farmers](https://img.youtube.com/vi/VID/0.jpg)]( https://youtu.be/uOxihngWp88)
+  [![Farmers Side-Video ](https://img.youtube.com/vi/VID/0.jpg)]( https://youtu.be/uOxihngWp88)
  
  The following video will show you the farmer side of the app.  
  This includes:
@@ -46,7 +46,7 @@ To install in on Android things :
  5. Access to potential customers/ Buyers.
  
  
- [![Customers](https://img.youtube.com/vi/VID/0.jpg)]( https://img.youtube.com/vi/VID/0.jpg)
+ [![Customers-Side video](https://img.youtube.com/vi/VID/0.jpg)]( https://img.youtube.com/vi/VID/0.jpg)
 
  
  
@@ -77,9 +77,9 @@ This gives more insights on the farmers side, They are able to do farming geared
   
   # Screenshots
   <p float="left">
-  <img src="/Screenshots/Screenshot_20191130-001904.png" width="150" />
-  <img src="/Screenshots/Screenshot_20191129-233852.png" width="150" /> 
-  <img src="/Screenshots/Screenshot_20191130-002115.png" width="150" />
+  <img src="/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190610-185152.png" width="150" />
+  <img src="/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190613-214339.png" width="150" /> 
+  <img src="/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190613-214413.png" width="150" />
 </p>
   
   
@@ -90,9 +90,9 @@ This gives more insights on the farmers side, They are able to do farming geared
 </p>
   
 <p float="left">
-  <img src="/Screenshots/Screenshot_20190610-185152.png" width="150" />
-  <img src="/Screenshots/Screenshot_20190610-185152.png" width="150" /> 
-  <img src="/Screenshots/Screenshot_20190610-185152.png" width="150" />
+  <img src="/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190613-214413.png" width="150" />
+  <img src="/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190610-185152.png" width="150" /> 
+  <img src="/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190613-214339.png" width="150" />
 </p>
   
   # Disclaimer
