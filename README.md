@@ -84,15 +84,15 @@ This gives more insights on the farmers side, They are able to do farming geared
   
   
  <p float="left">
-  <img src="/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190610-185152.png" width="150" />
-  <img src="/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190613-214339.png" width="150" /> 
-  <img src="/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190613-214413.png" width="150" />
+  <img src="/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190605-154928.png" width="150" />
+  <img src="/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190610-185216.png" width="150" /> 
+  <img src="/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190613-214334.png" width="150" />
 </p>
   
 <p float="left">
-  <img src="/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190613-214413.png" width="150" />
-  <img src="/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190610-185152.png" width="150" /> 
-  <img src="/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190613-214339.png" width="150" />
+  <img src="/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190613-214320.png" width="150" />
+  <img src="/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190613-214258.png" width="150" /> 
+  <img src="/IEEE MADC 2019 FILES/Sccreenshots/Screenshot_20190613-214222.png" width="150" />
 </p>
   
   # Disclaimer
