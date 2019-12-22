@@ -93,7 +93,7 @@ This gives more insights on the farmers side, They are able to do farming geared
 </p>
   
   # Disclaimer
-  Agrisasa is a product developed by Benard Ngoda. All the photos and libraries used are open source and are subject to change with requirements specifications.
+  Agrisasa is a product developed by Benard Ngoda. All the photos and libraries used are open source and are subject to change with requirements specifications to whom it may concern.
   
   
   # License
@@ -126,7 +126,7 @@ If you have found any bugs or want to post a feature request please use the [bug
 
 
 #### Developer
-* Homepage: [@Personal Portal](http://bensalcie.likesyou.org/)
+* Homepage: [Personal Portal](http://bensalcie.likesyou.org/)
 * Twitter: [@ibensalcie](https://twitter.com/ibensalcie )
 
 ### Summary
